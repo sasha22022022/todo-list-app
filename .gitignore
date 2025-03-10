@@ -1,0 +1,2 @@
+node_modules/ # Если вы будете использовать node_modules
+.DS_Store   # Для macOS
